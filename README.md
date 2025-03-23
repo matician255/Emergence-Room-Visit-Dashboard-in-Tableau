@@ -1,7 +1,7 @@
 # Emergency Room (ER) Dashboard in Tableau
 
 ![alt text](<imgs/Dashboard 1.png>)
-*Preview of my dashboard from my Tablea Public*
+*Preview of my dashboard from my Tableau Public*
 
 Demo: [Click to view the full Interactive Dashboard at tableau public](https://public.tableau.com/views/EmergenceRoomDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
